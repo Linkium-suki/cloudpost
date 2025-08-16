@@ -16,7 +16,8 @@
     "zod": "3.23.8",
     "clsx": "2.1.1",
     "react-hook-form": "7.51.5",
-    "@cloudflare/next-on-pages": "1.12.1"
+    "@cloudflare/next-on-pages": "1.12.1",
+    "openai": "^4.47.1"
   },
   "devDependencies": {
     "typescript": "5",
